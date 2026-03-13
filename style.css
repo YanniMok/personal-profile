@@ -20,10 +20,11 @@ ul li{
 }
 
 #demo .carousel-item img{
-    max-height: 400px;
+    height: 100%;
     object-fit: cover;
     width: 100%
 }
+
 
 
 
