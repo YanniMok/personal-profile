@@ -19,10 +19,11 @@ ul li{
     border-left: 5px solid #007bff;
 }
 
-.carousel-item img{
+#demo .carousel-item img{
     max-height: 400px;
     object-fit: cover;
     width: 100%
 }
+
 
 
